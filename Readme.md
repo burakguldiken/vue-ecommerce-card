@@ -1,16 +1,16 @@
-# Vue E-Commerce Card
+# Vue E-Commerce Card
 
 Card design that can be used in e-commerce sites.
 
 
-## Install
+## Install
 
 ```
 npm i vue-ecommerce-card
 ```
 
 
-## Import
+## Import
 
 ```javascript
 import VueEcommerceCard from 'vue-ecommerce-card';
@@ -23,7 +23,7 @@ components: {
 ```
 
 
-## Use
+## Use
 
 ```javascript
 <template>
@@ -43,7 +43,7 @@ components: {
 </template>
 ```
 
-## Properties
+## Properties
 
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
