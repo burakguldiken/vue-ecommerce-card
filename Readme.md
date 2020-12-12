@@ -2,11 +2,13 @@
 
 Card design that can be used in e-commerce sites.
 
+
 ## Install
 
 ```
 npm i vue-ecommerce-card
 ```
+
 
 ## Import
 
@@ -19,6 +21,7 @@ components: {
     VueEcommerceCard
   }
 ```
+
 
 ## Use
 
