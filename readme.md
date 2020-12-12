@@ -1,5 +1,7 @@
 # Vue E-Commerce Card
 
+![alt text](card.gif)
+
 Card design that can be used in e-commerce sites.
 
 
