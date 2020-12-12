@@ -50,7 +50,7 @@ components: {
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
 | imageUrl | string | https://png.pngtree.com/element_our/20190531/ourlarge/pngtree-color-glare-computer-free-map-image_1276302.jpg | The url of the product must be added |
-| description | string | Designed for serious gaming and real-world durability, <br/> TUF Gaming A15 is a gaming laptop that can lead you to victory. <br/> Powered by the latest AMD Ryzen ™ 4000 Series CPU and GeForce GTX 1650Ti GPU, <br/> this gaming cavan is fast and smooth in action-packed games." <br/> title="Asus X556U Series | product description |
+| description | string | Designed for serious gaming and real-world durability, <br/> TUF Gaming A15 is a gaming laptop that can lead you to victory. <br/> Powered by the latest AMD Ryzen ™ 4000 Series CPU and GeForce GTX 1650Ti GPU, <br/> this gaming cavan is fast and smooth in action-packed games." <br/> | product description |
 | title | string | Asus X556U Series | product title |
 | price | number | 1200 | product price |
 | info | string | Asus Grey Laptop | basic information about the product |
